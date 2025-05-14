@@ -8,7 +8,7 @@ setup(
         'scikit-learn',
         'networkx',
         'sentence-transformers',
-        'openai==0.28',
+        'openai',
         'tqdm',
     ],
 )
